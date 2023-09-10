@@ -1,3 +1,5 @@
+import Posts from "./blogs/apiCall";
+
 export default function Home() {
   return (
     <>
